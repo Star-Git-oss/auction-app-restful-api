@@ -1,10 +1,3 @@
-# Flutter Auction App RESTful API Service
-
-[![PHP Composer](https://github.com/ikhsan3adi/ci4_online_auction_api/actions/workflows/php.yml/badge.svg)](https://github.com/ikhsan3adi/ci4_online_auction_api/actions/workflows/php.yml)
-
- REST API for [Flutter Auction App](https://github.com/ikhsan3adi/Flutter-Auction-App) using Codeigniter 4
-
-
 ## Requirement
 
 - Composer
@@ -163,11 +156,3 @@ to discuss what you would like to change.
 
 [![Donate paypal](https://img.shields.io/badge/Donate-PayPal-green.svg?style=for-the-badge)](https://paypal.me/xannxett?country.x=ID&locale.x=en_US)
 [![Donate saweria](https://img.shields.io/badge/Donate-Saweria-red?style=for-the-badge&link=https%3A%2F%2Fsaweria.co%2Fxiboxann)](https://saweria.co/xiboxann)
-
-## License
-
-![GitHub license](https://img.shields.io/github/license/ikhsan3adi/ci4_online_auction_api?style=for-the-badge)
-
-## Authors
-
-- [@ikhsan3adi](https://www.github.com/ikhsan3adi)
